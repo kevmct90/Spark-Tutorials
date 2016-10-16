@@ -4,8 +4,16 @@
 
 .cache-main
 
-.prject
+.project
 
 .settings
 
 *.class
+
+//_SUCCESS
+
+_SUCCESS
+
+*.crc
+
+*.timestamp
